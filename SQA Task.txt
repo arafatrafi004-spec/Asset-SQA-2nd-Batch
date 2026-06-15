@@ -1,0 +1,4 @@
+
+Task 1:Read first 10 page from "FOUNDATIONS OF SOFTWARE TESTING" Book
+
+Task 2:AI Search on difficult topics to realize better
